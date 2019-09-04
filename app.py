@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 beers=['2015', '2016', '2017', '2018']
 ibu_values=[81, 103, 139, 164]
 abv_values=[86, 84, 101, 103]
-color1='lightgreen'
+color1='darkblue'
 color2='orange'
 mytitle='Payroll vs. Wins Comparison'
 tabtitle='Money Wins?'
